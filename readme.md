@@ -29,27 +29,39 @@ Node开发（5年） ES6 Express Koa Mongodb Mysql
 ### 项目经验
 
 #### 1.炫页网：一个H5课件和发布平台(后更名炫星微课)
+
 web端，node，bootstrap，jquery
+
 https://www.xuanyes.com
 
 #### 2.滴答设计师：家装设计师在线接单平台
+
 小程序，node，mongodb，vue，uniapp
+
 小程序搜索家装设计师
 
 #### 3.沃佳超市：在线团购和外卖平台
+
 小程序+app，node，mongodb，vue，uniapp
+
 小程序搜索“沃佳超市”
 
 #### 4.赣鲁家具商城：多商户在线家具分销平台
+
 小程序，node，mongodb，vue，uniapp
+
 小程序搜索“赣鲁家具商城”
 
 #### 5.宠千岁：宠物设计与宠物周边商品商城
+
 小程序+app，node，mongodb，vue，uniapp
+
 小程序搜索“宠千岁”
 
 #### 6.2020山东高考在线咨询平台：山东教育电视台服务高考志愿填报的咨询平台
+
 移动web，node，mongodb，vue，日访问量10万+
+
 http://zszxh.daweilab.com/h5/
 
 
