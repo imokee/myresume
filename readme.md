@@ -2,15 +2,15 @@
 
 ### 我的胜任的工作
 
-Node开发（5年） ES6 Express Koa Mongodb Mysql
+Node开发（6年） ES6 Express Koa Mongodb Mysql
 
-前端开发（8年） jQuery Bootstrap Webpack Vue React
+前端开发（10年） jQuery Bootstrap Webpack Vue React
 
-微信开发（3年） JS-SDK 微信支付 微信小程序
+微信开发（5年） JS-SDK 微信支付 微信小程序
 
-混合式开发（2年） Taro uni-app Electron
+混合式开发（3年） Taro uni-app Electron
 
-其他：git svn linux nginx
+其他：git svn linux nginx 项目管理
 
 ### 个人简介
 
@@ -38,7 +38,7 @@ https://www.xuanyes.com
 
 小程序，node，mongodb，vue，uniapp
 
-小程序搜索家装设计师
+小程序搜索“滴答设计师”
 
 #### 3.沃佳超市：在线团购和外卖平台
 
